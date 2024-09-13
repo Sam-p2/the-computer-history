@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Historical Perspective on Computing & IT Basics</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Header Section -->
+    <header>
+        <h1>Historical Perspective on Computing & IT Basics</h1>
+    </header>
+
+    <!-- Main Content -->
+    <main>
+        <!-- Historical Perspective on Computing Section -->
+        <section id="history">
+            <h2>Historical Perspective on Computing</h2>
+
+            <h3>Early Mechanical Computers</h3>
+            <p>Early mechanical computers are devices built from mechanical components such as levers and gears, rather than electronic components. Some examples include:</p>
+            "Analytical Engine.jpg" alt="Analytical Engine" class="history-img">
+            "Abacus.jpg" alt="Abacus" class="history-img">
+
+            <h3>Who is Charles Babbage?</h3>
+            <p>Charles Babbage was an English polymath and is considered the "father of the computer." He originated the concept of a programmable digital computer.</p>
+            ="Charles Babbage.jpg" alt="Charles Babbage" class="history-img">
+
+            <h3>The Invention of Transistors</h3>
+            <p>Transistors were invented by John Bardeen, Walter Brattain, and William Shockley at Bell Labs in 1947. They paved the way for the development of modern computing by enabling more efficient, smaller electronic devices.</p>
+            transistor.jpg" alt="Transistor" class="history-img">
+
+            <h3>Important Figures in Computing History</h3>
+            "images/alan-turing.jpg" alt="Alan Turing" class="history-img">
+            "images/ada-lovelace.jpg" alt="Ada Lovelace" class="history-img">
+            "images/steve-jobs.jpg" alt="Steve Jobs" class="history-img">
+            "images/bill-gates.jpg" alt="Bill Gates" class="history-img">
+
+            <h3>Timeline of Key Milestones</h3>
+            <ul>
+                <li><strong>1623:</strong> Wilhelm Schickard designs the first mechanical calculator.</li>
+                <li><strong>1673:</strong> Gottfried Wilhelm Leibniz invents the Leibniz Wheel, a mechanical calculator for complex calculations.</li>
+                <li><strong>1801:</strong> Joseph Marie Jacquard invents the Jacquard loom, an important precursor to computer programming.</li>
+                <li><strong>1822:</strong> Charles Babbage begins work on the Difference Engine.</li>
+                <li><strong>1837:</strong> Babbage proposes the Analytical Engine, a more advanced computing machine.</li>
+                <li><strong>1936:</strong> Alan Turing introduces the concept of the Turing Machine.</li>
+                <li><strong>1945:</strong> The ENIAC, one of the earliest general-purpose electronic computers, is completed.</li>
+            </ul>
+        </section>
+
+        <!-- Introduction to IT Basics Section -->
+        <section id="it-basics">
+            <h2>Introduction to IT Basics</h2>
+            <h3>Hardware</h3>
+            <p>Hardware refers to the physical components of a computer, including the CPU, RAM, storage devices, and input/output devices.</p>
+           
+
+            <h3>Software</h3>
+            <p>Software includes operating systems like Windows or macOS and applications like word processors, web browsers, and games.</p>
+            
+
+            <h3>Networking</h3>
+            <p>Networking connects computers and devices to share data and resources. This includes concepts like LAN (Local Area Network), WAN (Wide Area Network), and the Internet.</p>
+            
+
+            <h3>Cloud Computing</h3>
+            <p>Cloud computing enables on-demand access to shared computing resources, like servers, storage, and applications, over the Internet.</p>
+            
+
+            <h3>Servers</h3>
+            <p>Servers are powerful computers that provide resources, services, or data to other computers, known as clients, on a network.</p>
+           
+
+            <h3>Programming Languages</h3>
+            <p>Programming languages, such as Python, Java, and C++, are used by developers to communicate instructions to computers and create software.</p>
+            
+
+            <h3>Data Storage</h3>
+            <p>Data storage involves the retention and management of information on devices like hard drives, SSDs, and cloud storage platforms.</p>
+           
+            <h3>The Role of IT in Organizations</h3>
+            <p>IT plays a crucial role in modern organizations, supporting everything from data management and communication to operational efficiency and customer service.</p>
+        </section>
+    </main>
+
+    <!-- Footer Section -->
+    <footer>
+        <p>&copy; 2024 Samuel Angelo Arnaiz</p>
+    </footer>
+</body>
+</html>
